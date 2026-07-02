@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "forceUpdate": false,
+  "forceUpdate": true,
   "title": "Yangi yangilanish",
   "message": "Xatolar tuzatildi."
 }
