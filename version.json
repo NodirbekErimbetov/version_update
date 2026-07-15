@@ -1,6 +1,6 @@
 {
   "version":1.0.12,
-  "forceUpdate": true,
+  "forceUpdate": false,
   "title": "Yangilanish mavjud sinab ko'ring!",
   "message": "Xatolar tuzatildi."
 }
