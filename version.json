@@ -1,6 +1,6 @@
 {
-  "version":1.0.19,
-  "forceUpdate": true,
+  "version":1.0.20,
+  "forceUpdate": false,
   "title": "Ilovani yangilanish kerak!!",
-  "message": "Til bo'yicha muammo bo'layotgan savollar to'g'irlandi."
+  "message": "Test rejimida 100 ta ovozli tushuntirishlar qoshildi."
 }
