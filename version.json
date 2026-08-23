@@ -1,6 +1,6 @@
 {
-  "version":1.0.20,
-  "forceUpdate": false,
+  "version":1.0.22,
+  "forceUpdate": true,
   "title": "Ilovani yangilanish kerak!!",
-  "message": "Test rejimida 100 ta ovozli tushuntirishlar qoshildi."
+  "message": "Lotin kirill alifbosidagi xatoliklar tuzatildi."
 }
