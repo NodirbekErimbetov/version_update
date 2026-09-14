@@ -1,6 +1,6 @@
 {
-  "version":1.0.24,
-  "forceUpdate": true,
+  "version":1.0.25,
+  "forceUpdate": false,
   "title": "Ilovani yangilanish kerak!!",
-  "message": "Yangi savollar qo'shildi umumiy 1242 ta savol bo'ldi!"
+  "message": "Savollardagi kichik xatoliklar to'g'irlandi testga ishonch bilan tayyorlaning yangilanishni sinab ko'ring!"
 }
