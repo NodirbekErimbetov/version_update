@@ -1,6 +1,6 @@
 {
-  "version":1.0.25,
-  "forceUpdate": false,
+  "version":1.0.26,
+  "forceUpdate": true,
   "title": "Ilovani yangilanish kerak!!",
-  "message": "Savollardagi kichik xatoliklar to'g'irlandi testga ishonch bilan tayyorlaning yangilanishni sinab ko'ring!"
+  "message": "Yangi savollar qo'shildi yangilanishni sinab ko'ring!"
 }
